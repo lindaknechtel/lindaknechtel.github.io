@@ -1,5 +1,5 @@
 # Linda Knechtel
-![image](IMG.png)
+![image](resources/IMG_1906.png){:height="50%" width="50%"}
 
 You can write me an email to linda@knechtel.eu.
 
@@ -10,5 +10,5 @@ You can write me an email to linda@knechtel.eu.
 
 ## CV
 
-- german: 
-- english: 
+- german: [CV_LindaKnechtel_german.pdf](https://lindaknechtel.github.io/resources/cv_german.pdf)
+- english: [CV_LindaKnechtel_english.pdf](https://lindaknechtel.github.io/resources/cv_english.pdf)<<<
