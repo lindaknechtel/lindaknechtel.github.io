@@ -1,4 +1,5 @@
-# Linda Knechtel ![me](IMG_1906.png) 
+# Linda Knechtel
+![image](IMG.png)
 
 You can write me an email to linda@knechtel.eu.
 
