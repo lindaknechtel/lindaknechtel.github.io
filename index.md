@@ -10,5 +10,6 @@ You can write me an email to linda@knechtel.eu.
 
 ## CV
 
-- german: [CV_LindaKnechtel_german.pdf](https://lindaknechtel.github.io/resources/cv_german.pdf)
-- english: [CV_LindaKnechtel_english.pdf](https://lindaknechtel.github.io/resources/cv_english.pdf)
+- german: [CV_LindaKnechtel_german.pdf](resources/cv_german.pdf)
+- english: [CV_LindaKnechtel_english.pdf](resources/cv_english.pdf)
+
